@@ -34,7 +34,7 @@ I'm continuously learning and improving, aiming to build a solid career in the i
   </a>
 </div>
 <div> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluebeagbb&theme=dark&background=0d1117&border=2f3742&stroke=2f3742&ring=5D6DFF&fire=5D6DFF&currStreakLabel=FFFFFF" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrifgaraujo&theme=dark&background=0d1117&border=2f3742&stroke=2f3742&ring=5D6DFF&fire=5D6DFF&currStreakLabel=FFFFFF" alt="Sequência de contribuições" />
 </div>
 
 <br>
