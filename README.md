@@ -28,7 +28,7 @@ I'm continuously learning and improving, aiming to build a solid career in the i
 <br>
 
 <div> 
-  <a href="https://github.com/bluebeagbb"> 
+  <a href="https://github.com/gabrifgaraujo"> 
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluebeagbb&show_icons=true&theme=transparent&bg_color=0d1117&title_color=5D6DFF&icon_color=5D6DFF&border_color=2f3742" alt="Estatísticas" /> 
     <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebeagbb&layout=compact&theme=transparent&bg_color=0d1117&title_color=5D6DFF&border_color=2f3742" alt="Linguagens mais usadas" />
   </a>
