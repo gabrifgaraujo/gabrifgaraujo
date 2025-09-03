@@ -30,11 +30,8 @@ I'm continuously learning and improving, aiming to build a solid career in the i
   <a href="https://github.com/gabrifgaraujo"> 
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrifgaraujo&show_icons=true&theme=transparent&bg_color=0d1117&title_color=5D6DFF&icon_color=5D6DFF&border_color=2f3742" alt="Estatísticas" /> 
     <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrifgaraujo&layout=compact&theme=transparent&bg_color=0d1117&title_color=5D6DFF&border_color=2f3742" alt="Linguagens mais usadas" />
+    <a href="https://git.io/streak-stats"><img src="https://github-streak-stats-vert.vercel.app?user=gabrifgaraujo&theme=transparent" alt="GitHub Streak" /></a>
   </a>
-</div>
-
-<div> 
-  <img src="https://streak-stats.demolab.com?user=gabrifgaraujo&theme=dark&background=0d1117&border=2f3742&stroke=2f3742&ring=5D6DFF&fire=5D6DFF&currStreakLabel=FFFFFF" alt="Sequência de contribuições" />
 </div>
 
 <br>
